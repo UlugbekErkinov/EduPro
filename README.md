@@ -1,3 +1,4 @@
 # EduPro
-create a virtualenv
+create a virtualenv and then
+
 python manage.py runserver 
