@@ -15,11 +15,5 @@ Name:
 
 ## python manage.py runserver
 
-requirements:
-
-autopep8==1.5.7
-Django==4.0.0
-django-cors-headers==3.9.0
-djangorestframework==3.13.1
-
+or you can visit : https://e-ducationpro.herokuapp.com/
 
