@@ -1,33 +1,33 @@
-#EduPro
+# EduPro
 Welcome to EduPro! This is a project aimed at providing an online platform for education.
 
-###Getting Started
+### Getting Started
 To get started with EduPro, follow the steps below:
 
-###Clone the repository by running the following command in your terminal:
+### Clone the repository by running the following command in your terminal:
 bash
 Copy code
 ```git clone https://github.com/UlugbekErkinov/EduPro.git```
-###Navigate into the EduPro directory:
+### Navigate into the EduPro directory:
 bash
-###Copy code
+### Copy code
 ```cd EduPro```
-###Create a virtual environment using virtualenv:
+### Create a virtual environment using virtualenv:
 bash
-###Copy code
+### Copy code
 ```pip install virtualenv
 virtualenv env 
 ```
-###Activate the virtual environment:
+### Activate the virtual environment:
 bash
-###Copy code
+### Copy code
 ```env\Scripts\activate```
-###Run the server:
-###Copy code
+### Run the server:
+### Copy code
 ```python manage.py runserver```
-###Alternatively, you can visit the deployed version of EduPro at https://e-ducationpro.herokuapp.com/
+### Alternatively, you can visit the deployed version of EduPro at https://e-ducationpro.herokuapp.com/
 
-###Thank you for using EduPro!
+### Thank you for using EduPro!
 
 
 
