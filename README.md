@@ -3,7 +3,7 @@ Welcome to EduPro! This is a project aimed at providing an online platform for e
 
 ## Getting Started
 
-## To get started with EduPro, follow the steps below:
+To get started with EduPro, follow the steps below:
 
 ### 1. Clone the repository by running the following command in your terminal:
 ```git clone https://github.com/UlugbekErkinov/EduPro.git```
