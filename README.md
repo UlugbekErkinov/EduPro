@@ -2,7 +2,8 @@
 Welcome to EduPro! This is a project aimed at providing an online platform for education.
 
 ## Getting Started
-To get started with EduPro, follow the steps below:
+
+## To get started with EduPro, follow the steps below:
 
 ### 1. Clone the repository by running the following command in your terminal:
 ```git clone https://github.com/UlugbekErkinov/EduPro.git```
@@ -21,9 +22,9 @@ virtualenv env
 ### 5. Run the server:
 
 ```python manage.py runserver```
-### Alternatively, you can visit the deployed version of EduPro at https://e-ducationpro.herokuapp.com/
+#### Alternatively, you can visit the deployed version of EduPro at https://e-ducationpro.herokuapp.com/
 
-### Thank you for using EduPro!
+#### Thank you for using EduPro!
 
 
 
